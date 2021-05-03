@@ -1,0 +1,8 @@
+https://www.larashout.com/laravel-ecommerce-application-development-introduction
+
+1. Introduction
+2. Initial Project Setup
+3. Assets Setup Using Laravel Mix
+4. Admin Model and Migration
+5. Backend Admin Authentication
+6. Base Controller and Repository
